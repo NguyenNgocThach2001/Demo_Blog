@@ -1,5 +1,5 @@
 {
-    "name": "Demo/magento2-module",
+    "name": "demo_ptpmmnm/magento2-module",
     "description": "blog module.",
     "type": "magento2-module",
     "version": "0.0.1-stable",
